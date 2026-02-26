@@ -11,7 +11,7 @@ from med_dialog_simulator import MedDialogSimulator, GeminiBackend
 # ──────────────────────────────────────────────
 # 配置
 # ──────────────────────────────────────────────
-API_KEY = "AIzaSyCx3Oq8F8g2Yp_khPJ2LFa1UfdwPO12BV8"  # ← 替换为你的 API Key
+API_KEY = "YOUR_API_KEY"  # ← 替换为你的 API Key
 MODEL = "gemini-3-flash-preview"      # Gemini 3 Flash (preview)
 DATASET_DIR = "Medical-Dialogue-Dataset-Chinese"
 DATA_FILE = "2020.txt"
